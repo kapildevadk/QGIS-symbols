@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg10903"
+   viewBox="0 0 14.999996 23.527664"
+   sodipodi:docname="north 10.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   width="14.999996"
+   height="23.527664"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview833"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.849876"
+     inkscape:cx="-7.512785"
+     inkscape:cy="11.218415"
+     inkscape:window-width="1296"
+     inkscape:window-height="785"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g10909" />
+  <defs
+     id="defs10907">
+    <rect
+       x="525.96594"
+       y="303.81882"
+       id="rect15952"
+       width="0"
+       height="0" />
+  </defs>
+  <g
+     id="g10909"
+     transform="matrix(0.02844739,0,0,0.02844739,-9.9101163,-11.069238)">
+    <g
+       id="g9010">
+      <path
+         id="north 09"
+         fill="param(fill) #000000"
+         fill-opacity="param(fill-opacity)"
+         stroke="param(outline) #FFF"
+         stroke-opacity="param(outline-opacity)"
+         stroke-width="param(outline-width) 0"
+         style="stroke-linecap:butt;stroke-miterlimit:3.1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="M 610.4934,556.91751 348.36645,1216.1714 v 0 l 265,-130.2871 262.28902,129.8203 v 0 z m 4.02994,69.18133 221.4349,547.01986 -221.2539,-113.6809 z" />
+      <text
+         xml:space="preserve"
+         id="text15950"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15952);fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.97881405,0,0,1.1537944,551.23641,512.14675)"><tspan
+           x="0"
+           y="0"
+           id="tspan9024"><tspan
+             style="font-weight:bold;font-size:146.667px;-inkscape-font-specification:'sans-serif, Bold'"
+             id="tspan9022">N</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
