@@ -7,4 +7,6 @@ At this moment the repo contains 3 sets:
 - one set to style point marker.
 - second one (partial) icon set of north arrow.
 - third, set to style trees.
-You can add it to your repo list: https://github.com/kapildevadk/QGIS-symbols.git
+
+> [!TIP]
+> You can add it to your repo list: https://github.com/kapildevadk/QGIS-symbols.git
