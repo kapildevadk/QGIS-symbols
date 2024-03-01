@@ -7,7 +7,7 @@ At this moment the repo contains 4 sets:
 - one set to style point marker.
 - second one (partial) icon set of the north arrow.
 - third, set to style trees, and
-- Material Symbols: These icons can be browsed at https://fonts.google.com/icons.
+- Material Symbols: These icons can be browsed at https://fonts.google.com/icons or at https://github.com/google/material-design-icons
 
 > [!TIP]
 > You can add it to your repo list: https://github.com/kapildevadk/QGIS-symbols.git
